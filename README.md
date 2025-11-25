@@ -1,4 +1,4 @@
-# Multithreaded Musical Player
+# Multithreaded Musical Player - SEG2105 Assignment 4
 
 A Java application that demonstrates concurrency, thread synchronization, and shared resource management by coordinating two threads to play musical sequences.
 
