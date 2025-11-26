@@ -71,3 +71,7 @@ Run the main class:
 java SimpleMusicalPlayer
 ```
 The application will print the sequence of notes being played by Thread-1 and Thread-2 to the console.
+
+## Demo Video
+https://github.com/user-attachments/assets/e477c8bf-c813-4a00-a56c-4089e560daf1
+
